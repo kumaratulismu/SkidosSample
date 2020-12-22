@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "453001561419",
+    "firebase_url": "https://clevertapsample-atul.firebaseio.com",
+    "project_id": "clevertapsample-atul",
+    "storage_bucket": "clevertapsample-atul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453001561419:android:b4909946b7c2d73f3794ce",
+        "android_client_info": {
+          "package_name": "com.atul.ctsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453001561419-c1mkk9t93cmr6qhcc6i84hr8gu8r22ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97-qGn5GXe3-xh8KSaHBXA0sFzHQg5Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453001561419-c1mkk9t93cmr6qhcc6i84hr8gu8r22ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
